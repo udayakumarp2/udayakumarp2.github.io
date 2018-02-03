@@ -1,0 +1,88 @@
+* {
+    box-sizing: border-box;
+    text-align: center;
+    
+}
+
+ body{
+     background-color: #ffffff
+    }
+
+  .myname{
+      float:left;
+      width:300px;
+      padding: 0px;
+      box-sizing:border-box;
+      border:none;
+      text-align: left;
+      background-color: #4aaaa5;
+      color: white;
+      
+    }
+
+  nav{
+      margin-top: 20px; 
+      margin-left: 390px;
+      float: left;
+  }
+
+  header{
+      background-color:#ffffff;
+      border-bottom:0px;
+      border-style: solid;
+      border-color:0;
+      margin-bottom:10; 
+      
+  }
+
+
+section{
+        float:left;
+        margin-left:0px;
+        clear:left;
+        width:650px;
+        border-top:#cccccc;
+        border-style:solid;
+        }
+h2{
+    text-align: left;
+    color: #4aaaa5;
+    font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+h3{text-align: center;
+   color:#4aaaa5;
+   font-family: 'Georgia', Times, Times New Roman, serif;
+}
+
+.mycontent{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 12px
+}
+img{
+    float:left
+}
+
+aside{
+    width: 270px;
+    height:180px;
+    margin-left: 40px;
+    float:left;
+    border-style:solid;
+    border-color: black;
+}
+footer{
+    clear: both;
+    height: 40px;
+    width: 960px;
+    text-align: center;
+    border-color: black;
+    border-style: solid;
+    margin-top: 40px;
+    background: #666666;
+}
+form{
+    text-align: left;
+    color: #4aaaa5;
+    font-weight: bold;
+}
